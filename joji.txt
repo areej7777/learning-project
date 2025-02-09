@@ -1,2 +1,3 @@
 Create page home
 test
+Create page forget password
