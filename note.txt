@@ -1,5 +1,3 @@
-Create dashboard 
-Create page login
- Create dash
 Create sign up page
 add sign up
+create new page
